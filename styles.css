@@ -1,7 +1,7 @@
 * {
   margin: 0;
   padding: 0;
-  font-family: 'robot';
+  font-family:Verdana, Geneva, Tahoma, sans-serif
 }
 
 #photos {
@@ -32,7 +32,10 @@
 }
 
 
-
+nav{
+  display: flex;
+  justify-content: space-around;
+}
 
 header {
   background-color: #6b6363;
