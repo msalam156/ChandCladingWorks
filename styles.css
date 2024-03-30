@@ -206,9 +206,8 @@ p {
 }
   .frontImage{
     max-width: 100%;
-    /* height: auto; */
     height: 26vh;
-    width: 44vh;
+    width: 100%;
     margin-top: 20px;
   }
 
@@ -229,7 +228,7 @@ p {
   }
   .frontImages{
     height: 15vh;
-    width: 45vh;
+    width: 100%;
   }
   #sheetInformation{
     color: black;
