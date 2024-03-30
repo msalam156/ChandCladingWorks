@@ -107,6 +107,7 @@ nav ul li a {
 
 main {
   padding: 20px;
+  background: linear-gradient(686deg, #611300cc, transparent);
 }
 
 .content-section {
