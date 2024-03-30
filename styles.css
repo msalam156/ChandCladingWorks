@@ -23,7 +23,6 @@
   background-color: var(--black);
 }
 .image{
-  /* border: 2px solid #F2613F; */
     border-radius: 20px;
     color: white;
     margin-top: 18px;
@@ -95,11 +94,6 @@ main {
   padding: 20px;
 }
 
-/* .cover-section {
-  background-size: cover;
-  height: 400px; 
-} */
-
 .content-section {
   margin-top: 20px;
 }
@@ -124,7 +118,7 @@ p {
 /* Styles for contact information */
 .nav-link {
   float: right;
- 
+  font-weight: bold;
   text-align: right;
   color: var(--extra-dark);
   font-size: 14px;
