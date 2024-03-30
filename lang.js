@@ -6,7 +6,9 @@ const languages = {
         sectionDescription: "Welcome to Aluminum Artisan, your expert in aluminum and glass decor for 5 years. We specialize in crafting elegant and durable solutions for shops and buildings. From modern storefronts to sophisticated interiors, our craftsmanship adds style and functionality. Explore our portfolio to see how we blend aluminum and glass to create stunning designs. Trust us to transform your space with creativity and precision.",
         gotoButton: "Start Your Exploration",
         gallaryHeading: "Welcome to my workplace",
-        backButton: "Go back"
+        backButton: "Go back",
+        sampleHeading:"Smaples of Sheets",
+        sheetInformation:"all color availabel"
       },
       arabic: {
         headerTitle: "صانع الألومنيوم",
@@ -16,5 +18,8 @@ const languages = {
         gotoButton: "ابدأ استكشافك",
         gallaryHeading: "مرحبًا بك في مكان عملي",
         backButton: "عد",
+        sampleHeading:"أمثلة من الأوراق",
+        sheetInformation:"جميع الألوان متاحة"
+
       }
 }
